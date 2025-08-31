@@ -1,0 +1,16 @@
+teacher_id,email,first_name,last_name,department,year_joined,phone,employee_id,designation,qualification,date_of_birth,gender,joining_date,retirement_date,specialization,research_interests,experience_years,employment_type,status
+1,Pravaah2025@manipal.edu,Pravaah,2025,CSE,2015,9123412345,EMP2001,Professor,PhD,1975-06-20,male,2008-07-15,2038-07-15,AI,Deep Learning,20,permanent,active
+2,teacher2@manipal.edu,Teacher2,LN2,ECE,2018,9123423456,EMP2002,Associate Prof.,PhD,1980-03-12,female,2010-06-10,2040-06-10,VLSI,IoT,15,permanent,active
+3,teacher3@manipal.edu,Teacher3,LN3,MECH,2010,9123434567,EMP2003,Assistant Prof.,M.Tech,1982-08-05,male,2015-07-20,2045-07-20,Thermodynamics,Renewable Energy,10,contract,active
+4,teacher4@manipal.edu,Teacher4,LN4,CIVIL,2020,9123445678,EMP2004,Professor,PhD,1978-04-19,female,2009-07-25,2039-07-25,Robotics,Cybersecurity,25,permanent,retired
+5,teacher5@manipal.edu,Teacher5,LN5,EEE,2015,9123456789,EMP2005,Associate Prof.,M.Tech,1977-11-14,male,2006-06-14,2036-06-14,ML,Deep Learning,18,permanent,active
+6,teacher6@manipal.edu,Teacher6,LN6,CSE,2018,9123467890,EMP2006,Professor,PhD,1983-02-21,male,2011-08-01,2041-08-01,AI,IoT,12,visiting,sabbatical
+7,teacher7@manipal.edu,Teacher7,LN7,ECE,2010,9123478901,EMP2007,Assistant Prof.,M.Sc,1981-05-30,female,2013-07-10,2043-07-10,VLSI,Cybersecurity,8,contract,active
+8,teacher8@manipal.edu,Teacher8,LN8,MECH,2015,9123489012,EMP2008,Professor,PhD,1976-09-18,male,2005-06-12,2035-06-12,Thermodynamics,Renewable Energy,22,permanent,active
+9,teacher9@manipal.edu,Teacher9,LN9,CIVIL,2020,9123490123,EMP2009,Associate Prof.,M.Tech,1984-01-27,female,2014-07-14,2044-07-14,Robotics,IoT,9,permanent,active
+10,teacher10@manipal.edu,Teacher10,LN10,EEE,2015,9123401234,EMP2010,Assistant Prof.,PhD,1979-10-11,male,2007-07-09,2037-07-09,ML,Deep Learning,16,permanent,resigned
+11,teacher11@manipal.edu,Teacher11,LN11,CSE,2018,9123416789,EMP2011,Professor,PhD,1974-03-08,female,2004-07-17,2034-07-17,AI,Cybersecurity,28,permanent,retired
+12,teacher12@manipal.edu,Teacher12,LN12,ECE,2010,9123427890,EMP2012,Associate Prof.,M.Sc,1982-12-22,male,2012-06-19,2042-06-19,VLSI,Renewable Energy,11,contract,active
+13,teacher13@manipal.edu,Teacher13,LN13,MECH,2020,9123438901,EMP2013,Assistant Prof.,M.Tech,1977-07-02,male,2009-07-05,2039-07-05,Thermodynamics,Deep Learning,14,permanent,active
+14,teacher14@manipal.edu,Teacher14,LN14,CIVIL,2015,9123449012,EMP2014,Professor,PhD,1980-09-09,female,2008-06-11,2038-06-11,Robotics,IoT,19,permanent,active
+15,teacher15@manipal.edu,Teacher15,LN15,EEE,2018,9123450123,EMP2015,Associate Prof.,M.Tech,1975-01-05,male,2006-07-07,2036-07-07,ML,Renewable Energy,21,permanent,retired

@@ -1,0 +1,16 @@
+student_id,email,first_name,last_name,department,year_joined,phone,registration_number,batch_year,date_of_birth,gender,admission_date,admission_category,status,course_id,batch_id,cgpa
+1,Pravaah2025@learner.manipal.edu,Pravaah,2025,CSE,2023,9876512345,REG1001,B2023,2002-05-14,male,2023-08-01,regular,active,CSE101,B2023,8.9
+2,student2@learner.manipal.edu,Student2,LN2,ECE,2022,9876523456,REG1002,B2022,2001-11-21,female,2022-07-20,management,active,ECE201,B2022,7.8
+3,student3@learner.manipal.edu,Student3,LN3,MECH,2021,9876534567,REG1003,B2021,2000-03-05,male,2021-07-15,lateral,graduated,MECH301,B2021,9.1
+4,student4@learner.manipal.edu,Student4,LN4,CIVIL,2023,9876545678,REG1004,B2023,2002-12-10,female,2023-08-05,regular,active,CIV401,B2023,8.4
+5,student5@learner.manipal.edu,Student5,LN5,EEE,2023,9876556789,REG1005,B2023,2003-06-08,male,2023-08-02,scholarship,active,CSE101,B2023,8.2
+6,student6@learner.manipal.edu,Student6,LN6,CSE,2022,9876567890,REG1006,B2022,2001-07-15,female,2022-07-18,regular,suspended,CSE101,B2022,6.9
+7,student7@learner.manipal.edu,Student7,LN7,ECE,2021,9876578901,REG1007,B2021,2000-09-25,male,2021-07-14,management,graduated,ECE201,B2021,7.5
+8,student8@learner.manipal.edu,Student8,LN8,MECH,2022,9876589012,REG1008,B2022,2001-02-13,female,2022-07-16,scholarship,active,MECH301,B2022,9.3
+9,student9@learner.manipal.edu,Student9,LN9,CIVIL,2023,9876590123,REG1009,B2023,2003-10-29,male,2023-08-03,regular,active,CIV401,B2023,7.2
+10,student10@learner.manipal.edu,Student10,LN10,EEE,2021,9876501234,REG1010,B2021,2000-04-19,female,2021-07-12,lateral,graduated,CSE101,B2021,8.7
+11,student11@learner.manipal.edu,Student11,LN11,CSE,2022,9876516789,REG1011,B2022,2001-12-01,female,2022-07-17,regular,active,CSE101,B2022,8.0
+12,student12@learner.manipal.edu,Student12,LN12,ECE,2023,9876527890,REG1012,B2023,2002-01-23,male,2023-08-04,scholarship,active,ECE201,B2023,9.0
+13,student13@learner.manipal.edu,Student13,LN13,MECH,2021,9876538901,REG1013,B2021,2000-06-11,female,2021-07-13,regular,graduated,MECH301,B2021,7.6
+14,student14@learner.manipal.edu,Student14,LN14,CIVIL,2022,9876549012,REG1014,B2022,2001-09-04,male,2022-07-15,management,active,CIV401,B2022,8.8
+15,student15@learner.manipal.edu,Student15,LN15,EEE,2023,9876550123,REG1015,B2023,2003-03-27,female,2023-08-06,regular,active,CSE101,B2023,8.5
