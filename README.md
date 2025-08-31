@@ -54,7 +54,7 @@ Expand resource filtering and search functionality.
 📂 Project Setup
 
 1. Clone the repo:
-git clone https://github.com/your-username/icas-portal.git
+git clone https://github.com/drunkastrophysicist/Icasconnect/
 cd icas-portal
 
 2. Install dependencies:
